@@ -1,7 +1,7 @@
 # T-ui Theme Manager
 <br>
 
-T-ui (Expert) Theme-manager a.k.a. ttm is a script created to manage T-ui Expert themes.
+T-ui (Expert) Theme Manager a.k.a. ttm is a script created to manage T-ui Expert themes.
 
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/theme-manager/ttm_example.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/theme-manager/ttm_example.jpg" width="350" />
