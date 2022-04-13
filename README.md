@@ -1,4 +1,4 @@
-# T-ui Theme-manager
+# T-ui Theme Manager
 <br>
 
 T-ui (Expert) Theme-manager a.k.a. ttm is a script created to manage T-ui Expert themes.
