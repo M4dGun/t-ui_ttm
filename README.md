@@ -51,10 +51,10 @@ NOTE: if you can't install ttm anyway, because you don't have root or because th
 
 [Work in Progress...]
 
-#### You can use this script in 3 ways:<br>
-1. Through t-ui if you have root
-2. Through t-ui if you can use curl or wget without the command "termux curl" / "termux wget"
-3. Via Termux or TEL or another Terminal emulator (remembering to install curl or wget if not present)
+#### You can use this script:<br>
+1. Through T-ui Expert if you have root
+2. Through T-ui Expert if you can use curl or wget without "termux curl" and/or "termux wget" commands
+3. Via Termux or TEL or another terminal emulator and with or without root (remembering to install curl or wget if not present)
 
 * Case 1: if you are rooted then export Termux/TEL user bin folder into the PATH from T-UI:
 
